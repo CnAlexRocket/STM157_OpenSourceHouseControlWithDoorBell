@@ -2,7 +2,6 @@
 ## For the project:
 ### This project is setted up for the purpose of showing my coding capbility.
 ### All codes does not related to any company's business.
-### The license of this project is MIT.
 
 ## For the Design:
 ### When you get home, opening the door with AI face indication, then seeing the message on the control center screen: Dear, You have a parcel in the parcel locker.
