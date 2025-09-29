@@ -7,6 +7,7 @@
 ### When you get home, opening the door with AI face indication, then seeing the message on the control center screen: Dear, You have a parcel in the parcel locker.
 ### You look at the screen. It's showing the house temperature and suggesting you open the air condition.
 ### You click the screen, showing who visited you outside the door today in fast speed.
+### ...
 
 ## For the realization:
 ### It needs a solution with parcel locker system of community. Need a standard api of it.
