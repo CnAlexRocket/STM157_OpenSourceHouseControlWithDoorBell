@@ -2,7 +2,7 @@
 ## For the project:
 ### This project is setted up for the purpose of showing my coding capbility.
 ### All codes does not related to any company's business.
-\
+<br><br>
 
 ## For the Design:
 ### When you get home, opening the door with your fingerprint, then seeing the message on the control center screen: Dear, You have a parcel in the parcel locker.
@@ -10,7 +10,7 @@
 ### You click the screen, showing who visited your room and who operated your control center when you're outside in fast speed.
 ### Then you closed the supervisor by AI face recoganition, enjoying your watching tv.
 ### ...
-\
+<br><br>
 
 ## For the realization:
 ### It needs a solution with parcel locker system of community. Need a standard api of it.
