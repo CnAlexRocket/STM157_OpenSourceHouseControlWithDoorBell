@@ -1,7 +1,7 @@
 # STM157_OpenSourceHouseControlWithDoorBell
 ## For the purpose:
 ### This project is setted up for the purpose of showing my coding capbility.
-### All codes does not related to any company's business.
+### All codes do not related to any company's business.
 <br><br>
 
 ## For the Business Design:
@@ -38,10 +38,17 @@
 18. pv******: void*, pointer void
 19. Camel naming standards with Upcase capital for Function names.
 20. Biz is shorted for business, DC is shorted for datacenter.
+21. Define struct type only using Upcase Words and underline, begining with: STRUCT_ , end with BUNDLE, like STRUCT_DATA_CENTER_BUNDLE.
+22. Struct variable naming using s******Bundle, like sDataCenterBundle.
+23. Define enumerator type only using Upcase Words and underline, begining with: ENUM_ , end with TYPE, like ENUM_SHOWING_MESSAGE_TYPE.
+24. Define class type using Upcase Words and underline, begining with: CLASS_ , like CLASS_TEMPERATURE.
+25. Class variable name using c*****, like cTemperature.
+
 <br><br>
 
 ## =====logs=====================================
 ### 2025.09.29 Project Reporsitory created.
+### 2025.10.04 Finished Arch coding Standards for this project.
 ###
 ### 2025.10.04 Begin porting for ARM Linux.
 
