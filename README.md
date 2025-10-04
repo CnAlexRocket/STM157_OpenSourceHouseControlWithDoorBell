@@ -42,3 +42,6 @@
 
 ## =====logs=====================================
 ### 2025.09.29 Project Reporsitory created.
+###
+### 2025.10.04 Begin porting for ARM Linux.
+
