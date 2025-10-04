@@ -34,6 +34,8 @@
 16. pudw*****: uint32_t*, pointer usigned double words
 17. puqw*****: uint64_t*, pointer usigned quad words
 18. pv******: void*, pointer void
+19. Camel naming standards with Upcase capital for Function names.
+20. 
 
 ## =====logs=====================================
 ### 2025.09.29 Project Reporsitory created.
