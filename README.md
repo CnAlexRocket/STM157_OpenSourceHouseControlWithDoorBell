@@ -4,7 +4,7 @@
 ### All codes does not related to any company's business.
 <br><br>
 
-## For the Design:
+## For the Business Design:
 ### When you get home, opening the door with your fingerprint, then seeing the message on the control center screen: Dear, You have a parcel in the parcel locker.
 ### You look at the screen. It's showing the remainder of water supply, power supply, gas supply, and the house temperature. The control center is suggesting you open the air condition.
 ### You click the screen, showing who visited your room and who operated your control center when you're outside in fast speed.
