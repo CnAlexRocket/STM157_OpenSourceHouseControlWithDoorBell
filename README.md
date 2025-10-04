@@ -1,5 +1,5 @@
 # STM157_OpenSourceHouseControlWithDoorBell
-## For the project:
+## For the purpose:
 ### This project is setted up for the purpose of showing my coding capbility.
 ### All codes does not related to any company's business.
 <br><br>
@@ -14,8 +14,8 @@
 
 ## For the realization:
 ### It needs a solution with parcel locker system of community. Need a standard api of it.
-### It need connect with electric door locker. A standred api of it.
 ### The user interface, the main system, this project is, I'm realizing it.
+<br><br>
 
 ## Project Coding Starndards
 1. use basic data types: int8_t, int16_t, int32_t, int64_t, uint8_t, uint16_t, uint32_t, uint64_t, float, double, void
@@ -38,6 +38,7 @@
 18. pv******: void*, pointer void
 19. Camel naming standards with Upcase capital for Function names.
 20. Biz is shorted for business, DC is shorted for datacenter.
+<br><br>
 
 ## =====logs=====================================
 ### 2025.09.29 Project Reporsitory created.
