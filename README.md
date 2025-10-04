@@ -15,7 +15,7 @@
 ### It need connect with electric door locker. A standred api of it.
 ### The user interface, the main system, this project is, I'm realizing it.
 
-## Coding Starndards
+## Project Coding Starndards
 1. use basic data types: int8_t, int16_t, int32_t, int64_t, uint8_t, uint16_t, uint32_t, uint64_t, float, double, void
 2. b*****: int8_t, byte
 3. w*****: int16_t, word
